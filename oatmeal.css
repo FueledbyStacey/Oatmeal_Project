@@ -1,0 +1,58 @@
+html {
+    background-color: lavenderblush;
+}
+
+body {
+    font-family: "Annie Use Your Telescope", Verdana, sans-serif;
+    line-height: 1.5;
+    
+    }
+
+
+
+header {
+    font-family: "Annie Use Your Telescope", Verdana, sans-serif;
+    font-size: 32px;
+    border-top: 3px dotted black;
+    border-bottom: 3px dotted black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 30px 30px;
+    text-align: center;
+    
+}
+
+
+h2 {
+    text-align: center;
+    line-height: 100px;
+}
+
+
+h3 {
+    text-indent: 8px;
+    line-height: 50px;
+    font-style: italic;
+}
+
+a:link {
+    color: dimgray;
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: goldenrod;
+}
+
+a:active {
+    color: goldenrod;
+    text-decoration:underline;
+}
+
+
+/*--text-decoration can do the line through (strike through text) effect, 
+the underline effect, overline effect (where a line appears above the text)--*/
