@@ -1,11 +1,18 @@
 html {
     background-color: lavenderblush;
+	min-height: 300px;
+	max-height: 1000px:
+	min-width: 300px:
+	max-width: 1000px;
+	width: 70%	
+	
+	
 }
 
 body {
     font-family: "Annie Use Your Telescope", Verdana, sans-serif;
     line-height: 1.5;
-    
+		
     }
 
 
@@ -24,6 +31,11 @@ header {
 
 h1 {
 	text-align: center;
+}
+
+h1, p {
+	text-align: center'
+	
 }
 
 h2 {
