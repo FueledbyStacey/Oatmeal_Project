@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    font-family: "Annie Use Your Telescope", Verdana, sans-serif;
+    font-family: "Annie Use Your Telescope", Arial, cursive;
     line-height: 1.5;
 		
     }
@@ -32,10 +32,11 @@ header {
 
 h1 {
 	text-align: center;
+	
 }
 
 h1, p {
-	text-align: center'
+	text-align: center;
 	
 }
 
@@ -50,6 +51,8 @@ h3 {
     line-height: 50px;
     font-style: italic;
 }
+
+
 
 a:link {
     color: dimgray;
