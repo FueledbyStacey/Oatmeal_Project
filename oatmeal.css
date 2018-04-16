@@ -6,11 +6,6 @@ html {
 	max-width: 1000px;
 	padding: 50px 100px 50px 100px;
 	
-	
-	
-	
-	
-	
 }
 
 body {
@@ -53,6 +48,10 @@ h3 {
     text-indent: 8px;
     line-height: 50px;
     font-style: italic;
+}
+
+.picking {
+	font-weight: bold;
 }
 
 
