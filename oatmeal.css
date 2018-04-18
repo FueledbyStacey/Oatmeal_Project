@@ -43,10 +43,12 @@ h1 {
 	
 }
 
-h1, p {
+h1 p {
 	text-align: center;
 	
 }
+
+
 
 h2 {
     text-align: center;
@@ -66,7 +68,10 @@ h3 {
 
 
 ul {
-	text-align: center;
+	text-align: justify;
+	width: auto;
+	margin: auto;
+	
 
 a:link {
     color: dimgray;
@@ -85,6 +90,7 @@ a:active {
     color: goldenrod;
     text-decoration:underline;
 }
+
 
 
 /*--text-decoration can do the line through (strike through text) effect, 
