@@ -68,9 +68,10 @@ h3 {
 
 
 ul {
-	text-align: justify;
+	text-align: center;
 	width: auto;
 	margin: auto;
+}
 	
 
 a:link {
@@ -91,6 +92,9 @@ a:active {
     text-decoration:underline;
 }
 
+.footer {
+	text-align: center;
+}
 
 
 /*--text-decoration can do the line through (strike through text) effect, 
