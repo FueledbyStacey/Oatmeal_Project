@@ -66,11 +66,13 @@ h3 {
 }
 
 
-ul {
+ul li {
 	text-align: center;
-	width: auto;
-	margin: auto;
+	list-style-position: inside;
+	
+	
 }
+
 	
 
 a:link {
