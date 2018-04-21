@@ -29,8 +29,7 @@ header {
 }
 
 img {
-	width: 50%;
-	height: 50%;
+	width: 30%;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
@@ -101,7 +100,7 @@ a:active {
 	
 }
 
-.ref-foot p{
+.ref-foot {
 	text-align: center;
 }
 
