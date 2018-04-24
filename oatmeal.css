@@ -28,10 +28,11 @@ header {
     
 }
 
-img {
-	width: 30%;
-	margin-left: auto;
-	margin-right: auto;
+#oat-images img  {
+	position: static;
+	width: 450px;
+	margin-left: 450px;
+	margin-right: 450px;
 	display: block;
 	border: 10px dotted silver;
 }
@@ -71,6 +72,7 @@ ul li {
 	list-style-position: inside;
 	
 	
+	
 }
 
 	
@@ -95,14 +97,19 @@ a:active {
 
 .footer p {
 	display: inline;
-	width: 50%;
+	margin: auto;
 	text-align: center;
-	padding:250px;
+	padding: 250px;
+	
 	
 	
 }
 
 .ref-foot {
+	text-align: center;
+}
+
+.copy {
 	text-align: center;
 }
 
