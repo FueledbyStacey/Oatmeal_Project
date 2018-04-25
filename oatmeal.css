@@ -30,9 +30,8 @@ header {
 
 #oat-images img  {
 	position: static;
-	width: 450px;
-	margin-left: 450px;
-	margin-right: 450px;
+	margin: auto;
+	width: 30%;
 	display: block;
 	border: 10px dotted silver;
 }
