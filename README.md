@@ -3,8 +3,8 @@ This is a project I created about the different types of oatmeal available for b
 The project only uses HTML and CSS; I haven't learned Javascript yet because I am trying to get a better foundation with HTML and CSS before I start diving into Javascipt, JQuery, PHP, etc. 
 
 Originally, this project was set to private on Sololearn (an educational app and website that offers free courses on programming languages and web development).
-In order to upload this project on Github, I used Notepad++. I have had to make tweaks to provide better functionality, user experience, and give proper credit to the sources from which this project was born from.
-The changes that you see on Github are those changes that I have made to accomplish to accomplish these goals. 
+In order to upload this project on Github, I used Notepad++. I have had to make tweaks to provide better functionality, user experience, and give proper credit to the sources that helped me create this project.
+The changes that you see on Github are those changes that I have made to accomplish these goals. 
 I see many changes and improvements that could be made to improve the functionality, layout, structure, and presentation of this project. 
 However, this project will serve as a reminder (a digital marker in time) to me as to how much my skills in, knowledge about, and implementation of web development has developed and improved.
 
