@@ -8,4 +8,4 @@ The changes that you see on Github are those changes that I have made to accompl
 I see many changes and improvements that could be made to improve the functionality, layout, structure, and presentation of this project. 
 However, this project will serve as a reminder (a digital marker in time) to me as to how much my skills in, knowledge about, and implementation of web development has developed and improved.
 
-As of April 25th, 2017 The Oatmeal Project is considered complete. Other than the spelling errors or grammar issues that I may find, I will not be updating this project otherwise.
+As of October 9, 2018 The Oatmeal Project is considered complete. Other than the spelling errors or grammar issues that I may find, I will not be updating this project otherwise.
